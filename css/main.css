@@ -25,12 +25,14 @@ html {
 body {
   margin: 0;
   padding: 0;
+  background-image: url("https://secure.static.tumblr.com/743a26da2b89f72198339ff19e0fea20/ujc4jdw/oy6nsp1dt/tumblr_static_tumblr_static_9vulx8y7s2wocckkkkkscog4o_640.png");
 }
 
 h1 {
- font-family: 'Dancing Script', cursive;
- font-size: 2.25em;
+ font-family: 'Bonjour', cursive;
+ font-size: 3em;
  text-align: center;
+ color: #e5dad6;
 }
 
 p {
